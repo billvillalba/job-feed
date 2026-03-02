@@ -3,7 +3,7 @@
   <channel>
     <title>Job Search Feed</title>
     <link>https://example.com</link>
-    <description>Matching jobs as of 2026-03-01 17:38</description>
+    <description>Matching jobs as of 2026-03-02 12:28</description>
     <item>
       <title>Senior Data Science Manager, Customer Experience — Headway</title>
       <link>https://job-boards.greenhouse.io/headway/jobs/5815570004</link>
@@ -31,6 +31,20 @@
       <guid>https://job-boards.greenhouse.io/growtherapy/jobs/4583852005</guid>
       <description>&lt;b&gt;Grow Therapy&lt;/b&gt;&lt;br/&gt;Location: New York City, San Francisco, or Seattle preferred; remote candidates welcome&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/growtherapy/jobs/4583852005'&gt;View Job&lt;/a&gt;</description>
       <pubDate>2026-02-05T10:20:21-05:00</pubDate>
+    </item>
+    <item>
+      <title>Director, Customer Experience — Alma Mental Health</title>
+      <link>https://job-boards.greenhouse.io/alma/jobs/8378274002</link>
+      <guid>https://job-boards.greenhouse.io/alma/jobs/8378274002</guid>
+      <description>&lt;b&gt;Alma Mental Health&lt;/b&gt;&lt;br/&gt;Location: Remote, Contiguous US&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/alma/jobs/8378274002'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-02-11T18:06:19-05:00</pubDate>
+    </item>
+    <item>
+      <title>Content Design Lead (Contract Role) — Carrot Fertility</title>
+      <link>https://job-boards.greenhouse.io/carrotfertility/jobs/5786951004</link>
+      <guid>https://job-boards.greenhouse.io/carrotfertility/jobs/5786951004</guid>
+      <description>&lt;b&gt;Carrot Fertility&lt;/b&gt;&lt;br/&gt;Location: Remote&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/carrotfertility/jobs/5786951004'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-01-30T14:05:47-05:00</pubDate>
     </item>
     <item>
       <title>Staff Product Designer, Growth and Visual — Included Health</title>
