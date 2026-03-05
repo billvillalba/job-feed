@@ -3,7 +3,7 @@
   <channel>
     <title>Job Search Feed</title>
     <link>https://example.com</link>
-    <description>Matching jobs as of 2026-03-03 14:18</description>
+    <description>Matching jobs as of 2026-03-05 10:47</description>
     <item>
       <title>Senior Data Science Manager, Customer Experience — Headway</title>
       <link>https://job-boards.greenhouse.io/headway/jobs/5815570004</link>
@@ -104,6 +104,13 @@
     </item>
     <item>
       <title>Experience Design Lead — Huge</title>
+      <link>https://job-boards.greenhouse.io/hugeinc/jobs/7494836</link>
+      <guid>https://job-boards.greenhouse.io/hugeinc/jobs/7494836</guid>
+      <description>&lt;b&gt;Huge&lt;/b&gt;&lt;br/&gt;Location: Colombia&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/hugeinc/jobs/7494836'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-02-11T15:56:53-05:00</pubDate>
+    </item>
+    <item>
+      <title>Experience Design Lead — Huge</title>
       <link>https://job-boards.greenhouse.io/hugeinc/jobs/7494832</link>
       <guid>https://job-boards.greenhouse.io/hugeinc/jobs/7494832</guid>
       <description>&lt;b&gt;Huge&lt;/b&gt;&lt;br/&gt;Location: United States&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/hugeinc/jobs/7494832'&gt;View Job&lt;/a&gt;</description>
@@ -114,34 +121,6 @@
       <link>https://job-boards.greenhouse.io/hugeinc/jobs/7494833</link>
       <guid>https://job-boards.greenhouse.io/hugeinc/jobs/7494833</guid>
       <description>&lt;b&gt;Huge&lt;/b&gt;&lt;br/&gt;Location: Canada&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/hugeinc/jobs/7494833'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-02-11T15:56:53-05:00</pubDate>
-    </item>
-    <item>
-      <title>Experience Design Lead — Huge</title>
-      <link>https://job-boards.greenhouse.io/hugeinc/jobs/7494836</link>
-      <guid>https://job-boards.greenhouse.io/hugeinc/jobs/7494836</guid>
-      <description>&lt;b&gt;Huge&lt;/b&gt;&lt;br/&gt;Location: Colombia&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/hugeinc/jobs/7494836'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-02-11T15:56:53-05:00</pubDate>
-    </item>
-    <item>
-      <title>Visual Design Lead — Huge</title>
-      <link>https://job-boards.greenhouse.io/hugeinc/jobs/7509010</link>
-      <guid>https://job-boards.greenhouse.io/hugeinc/jobs/7509010</guid>
-      <description>&lt;b&gt;Huge&lt;/b&gt;&lt;br/&gt;Location: Canada&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/hugeinc/jobs/7509010'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-02-11T15:56:53-05:00</pubDate>
-    </item>
-    <item>
-      <title>Visual Design Lead — Huge</title>
-      <link>https://job-boards.greenhouse.io/hugeinc/jobs/7509009</link>
-      <guid>https://job-boards.greenhouse.io/hugeinc/jobs/7509009</guid>
-      <description>&lt;b&gt;Huge&lt;/b&gt;&lt;br/&gt;Location: United States&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/hugeinc/jobs/7509009'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-02-11T15:56:53-05:00</pubDate>
-    </item>
-    <item>
-      <title>Visual Design Lead — Huge</title>
-      <link>https://job-boards.greenhouse.io/hugeinc/jobs/7384592</link>
-      <guid>https://job-boards.greenhouse.io/hugeinc/jobs/7384592</guid>
-      <description>&lt;b&gt;Huge&lt;/b&gt;&lt;br/&gt;Location: United States&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/hugeinc/jobs/7384592'&gt;View Job&lt;/a&gt;</description>
       <pubDate>2026-02-11T15:56:53-05:00</pubDate>
     </item>
     <item>
@@ -156,6 +135,13 @@
       <link>https://job-boards.greenhouse.io/hugeinc/jobs/7528340</link>
       <guid>https://job-boards.greenhouse.io/hugeinc/jobs/7528340</guid>
       <description>&lt;b&gt;Huge&lt;/b&gt;&lt;br/&gt;Location: Colombia&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/hugeinc/jobs/7528340'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-02-11T15:56:53-05:00</pubDate>
+    </item>
+    <item>
+      <title>Visual Design Lead — Huge</title>
+      <link>https://job-boards.greenhouse.io/hugeinc/jobs/7384592</link>
+      <guid>https://job-boards.greenhouse.io/hugeinc/jobs/7384592</guid>
+      <description>&lt;b&gt;Huge&lt;/b&gt;&lt;br/&gt;Location: United States&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/hugeinc/jobs/7384592'&gt;View Job&lt;/a&gt;</description>
       <pubDate>2026-02-11T15:56:53-05:00</pubDate>
     </item>
     <item>
