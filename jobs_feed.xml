@@ -3,7 +3,7 @@
   <channel>
     <title>Job Search Feed</title>
     <link>https://example.com</link>
-    <description>Matching jobs as of 2026-03-13 13:27</description>
+    <description>Matching jobs as of 2026-03-17 14:49</description>
     <item>
       <title>Senior UX Researcher — Spring Health</title>
       <link>https://job-boards.greenhouse.io/springhealth66/jobs/4668694005</link>
@@ -41,17 +41,17 @@
     </item>
     <item>
       <title>Senior Fullstack Engineer, Patient Experience — Midi Health</title>
-      <link>https://job-boards.greenhouse.io/midihealth/jobs/4652128005</link>
-      <guid>https://job-boards.greenhouse.io/midihealth/jobs/4652128005</guid>
-      <description>&lt;b&gt;Midi Health&lt;/b&gt;&lt;br/&gt;Location: Hybrid - Palo Alto, California&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/midihealth/jobs/4652128005'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-02-24T23:09:54-05:00</pubDate>
-    </item>
-    <item>
-      <title>Senior Fullstack Engineer, Patient Experience — Midi Health</title>
       <link>https://job-boards.greenhouse.io/midihealth/jobs/4666061005</link>
       <guid>https://job-boards.greenhouse.io/midihealth/jobs/4666061005</guid>
       <description>&lt;b&gt;Midi Health&lt;/b&gt;&lt;br/&gt;Location: Hybrid - San Francisco&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/midihealth/jobs/4666061005'&gt;View Job&lt;/a&gt;</description>
       <pubDate>2026-02-24T23:11:36-05:00</pubDate>
+    </item>
+    <item>
+      <title>Senior Fullstack Engineer, Patient Experience — Midi Health</title>
+      <link>https://job-boards.greenhouse.io/midihealth/jobs/4652128005</link>
+      <guid>https://job-boards.greenhouse.io/midihealth/jobs/4652128005</guid>
+      <description>&lt;b&gt;Midi Health&lt;/b&gt;&lt;br/&gt;Location: Hybrid - Palo Alto, California&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/midihealth/jobs/4652128005'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-02-24T23:09:54-05:00</pubDate>
     </item>
     <item>
       <title>Software Engineer, Patient Experience — Midi Health</title>
@@ -72,7 +72,7 @@
       <link>https://job-boards.greenhouse.io/omadahealth/jobs/7685188</link>
       <guid>https://job-boards.greenhouse.io/omadahealth/jobs/7685188</guid>
       <description>&lt;b&gt;Omada Health&lt;/b&gt;&lt;br/&gt;Location: Remote, USA&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/omadahealth/jobs/7685188'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-05T18:44:41-05:00</pubDate>
+      <pubDate>2026-03-16T18:34:37-04:00</pubDate>
     </item>
     <item>
       <title>Design Research Lead — IDEO</title>
@@ -96,39 +96,11 @@
       <pubDate>2026-02-27T00:02:36-05:00</pubDate>
     </item>
     <item>
-      <title>Senior Design Researcher — IDEO</title>
-      <link>https://job-boards.greenhouse.io/ideo/jobs/7407198</link>
-      <guid>https://job-boards.greenhouse.io/ideo/jobs/7407198</guid>
-      <description>&lt;b&gt;IDEO&lt;/b&gt;&lt;br/&gt;Location: Chicago, IL&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/ideo/jobs/7407198'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-02-27T00:09:44-05:00</pubDate>
-    </item>
-    <item>
-      <title>Lead Service Designer (Advanced English) - CL - Remote . — Thoughtworks</title>
-      <link>https://www.thoughtworks.com/careers/jobs/7695628?gh_jid=7695628</link>
-      <guid>https://www.thoughtworks.com/careers/jobs/7695628?gh_jid=7695628</guid>
-      <description>&lt;b&gt;Thoughtworks&lt;/b&gt;&lt;br/&gt;Location: Chile, Chile&lt;br/&gt;&lt;a href='https://www.thoughtworks.com/careers/jobs/7695628?gh_jid=7695628'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-10T11:57:17-04:00</pubDate>
-    </item>
-    <item>
-      <title>Lead Service Designer (Advanced English) - EC- Remote — Thoughtworks</title>
-      <link>https://www.thoughtworks.com/careers/jobs/7704137?gh_jid=7704137</link>
-      <guid>https://www.thoughtworks.com/careers/jobs/7704137?gh_jid=7704137</guid>
-      <description>&lt;b&gt;Thoughtworks&lt;/b&gt;&lt;br/&gt;Location: Ecuador, Ecuador&lt;br/&gt;&lt;a href='https://www.thoughtworks.com/careers/jobs/7704137?gh_jid=7704137'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-11T07:07:16-04:00</pubDate>
-    </item>
-    <item>
-      <title>Lead Service Designer (Advanced English) - PE - Remote . — Thoughtworks</title>
-      <link>https://www.thoughtworks.com/careers/jobs/7695601?gh_jid=7695601</link>
-      <guid>https://www.thoughtworks.com/careers/jobs/7695601?gh_jid=7695601</guid>
-      <description>&lt;b&gt;Thoughtworks&lt;/b&gt;&lt;br/&gt;Location: Peru, Peru&lt;br/&gt;&lt;a href='https://www.thoughtworks.com/careers/jobs/7695601?gh_jid=7695601'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-09T12:28:52-04:00</pubDate>
-    </item>
-    <item>
-      <title>Lead Service Designer (Advanced Spanish and English) - BR - Remote — Thoughtworks</title>
-      <link>https://www.thoughtworks.com/careers/jobs/7684250?gh_jid=7684250</link>
-      <guid>https://www.thoughtworks.com/careers/jobs/7684250?gh_jid=7684250</guid>
-      <description>&lt;b&gt;Thoughtworks&lt;/b&gt;&lt;br/&gt;Location: Brazil, Brazil&lt;br/&gt;&lt;a href='https://www.thoughtworks.com/careers/jobs/7684250?gh_jid=7684250'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-10T11:59:44-04:00</pubDate>
+      <title>Senior Experience Designer — Thoughtworks</title>
+      <link>https://www.thoughtworks.com/careers/jobs/7682001?gh_jid=7682001</link>
+      <guid>https://www.thoughtworks.com/careers/jobs/7682001?gh_jid=7682001</guid>
+      <description>&lt;b&gt;Thoughtworks&lt;/b&gt;&lt;br/&gt;Location: Bangkok, Thailand&lt;br/&gt;&lt;a href='https://www.thoughtworks.com/careers/jobs/7682001?gh_jid=7682001'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-03-17T11:34:41-04:00</pubDate>
     </item>
     <item>
       <title>Staff Service Designer  — Code for America</title>
@@ -138,109 +110,102 @@
       <pubDate>2026-01-27T13:20:52-05:00</pubDate>
     </item>
     <item>
-      <title>UI/UX Analyst — Oddball</title>
-      <link>https://job-boards.greenhouse.io/oddball/jobs/7630435003</link>
-      <guid>https://job-boards.greenhouse.io/oddball/jobs/7630435003</guid>
-      <description>&lt;b&gt;Oddball&lt;/b&gt;&lt;br/&gt;Location: Remote&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/oddball/jobs/7630435003'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-02-19T10:58:14-05:00</pubDate>
-    </item>
-    <item>
       <title>Channel Sales Manager, Benelux — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7237465</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7237465</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: LOCATION&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7237465'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-06T18:52:06-05:00</pubDate>
+      <pubDate>2026-03-16T15:49:36-04:00</pubDate>
     </item>
     <item>
       <title>Compliance Analyst, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587357</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587357</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587357'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-06T18:52:06-05:00</pubDate>
+      <pubDate>2026-03-16T15:49:36-04:00</pubDate>
     </item>
     <item>
       <title>Customer Funds Reconciliation and Safeguarding Specialist, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587353</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587353</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587353'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-06T18:52:06-05:00</pubDate>
+      <pubDate>2026-03-16T15:49:36-04:00</pubDate>
     </item>
     <item>
       <title>Data - Regulatory Reporting, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587256</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587256</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location:  Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587256'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-06T18:52:06-05:00</pubDate>
+      <pubDate>2026-03-16T15:49:36-04:00</pubDate>
     </item>
     <item>
       <title>Enterprise Risk Management Specialist, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587347</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587347</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587347'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-06T18:52:06-05:00</pubDate>
+      <pubDate>2026-03-16T15:49:36-04:00</pubDate>
     </item>
     <item>
       <title>Internal Auditor, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587351</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587351</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587351'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-06T18:52:06-05:00</pubDate>
+      <pubDate>2026-03-16T15:49:36-04:00</pubDate>
     </item>
     <item>
       <title>IT Governance, Risk &amp; Compliance (GRC) Analyst, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587254</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587254</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587254'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-06T18:52:06-05:00</pubDate>
+      <pubDate>2026-03-16T15:49:36-04:00</pubDate>
     </item>
     <item>
       <title>Product Manager, Risk UX — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7407030</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7407030</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Dublin&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7407030'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-06T18:52:06-05:00</pubDate>
+      <pubDate>2026-03-16T15:49:36-04:00</pubDate>
     </item>
     <item>
       <title>Senior Staff Product Designer, Agentic Commerce — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7688069</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7688069</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: SF, Seattle, New York, Remote in the US&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7688069'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-06T18:52:06-05:00</pubDate>
+      <pubDate>2026-03-16T15:49:36-04:00</pubDate>
     </item>
     <item>
       <title>Senior Staff Product Designer, Payments — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7202630</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7202630</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: SF, Seattle, New York, Remote in the US&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7202630'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-06T18:52:06-05:00</pubDate>
+      <pubDate>2026-03-16T15:49:36-04:00</pubDate>
     </item>
     <item>
       <title>Staff Product Designer — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7536458</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7536458</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: US &lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7536458'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-06T18:52:06-05:00</pubDate>
+      <pubDate>2026-03-16T15:49:36-04:00</pubDate>
     </item>
     <item>
       <title>Staff Product Manager, Compliance UX — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7573905</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7573905</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Dublin&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7573905'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-06T18:52:06-05:00</pubDate>
+      <pubDate>2026-03-16T15:49:36-04:00</pubDate>
     </item>
     <item>
       <title> Treasury Manager, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587355</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587355</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587355'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-06T18:52:06-05:00</pubDate>
+      <pubDate>2026-03-16T15:49:36-04:00</pubDate>
     </item>
     <item>
       <title>UX Researcher, Support — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7594754</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7594754</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: US, Canada&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7594754'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-06T18:52:06-05:00</pubDate>
+      <pubDate>2026-03-16T15:49:36-04:00</pubDate>
     </item>
     <item>
       <title>Staff Experience Designer — Airbnb</title>
