@@ -3,7 +3,7 @@
   <channel>
     <title>Job Search Feed</title>
     <link>https://example.com</link>
-    <description>Matching jobs as of 2026-05-03 17:25</description>
+    <description>Matching jobs as of 2026-05-05 11:58</description>
     <item>
       <title>Psychiatrist or Prescribing Nurse Practitioner or Physician Assistant - 1099 Contractor - Sioux Falls, SD (Spanish-speaking) — Lyra Health</title>
       <link>https://jobs.lever.co/lyrahealth/c3294cbf-863d-4855-95a8-6b90edb47e7e</link>
@@ -27,13 +27,6 @@
     </item>
     <item>
       <title>Senior Product Designer, Member Growth — Spring Health</title>
-      <link>https://job-boards.greenhouse.io/springhealth66/jobs/4650623005</link>
-      <guid>https://job-boards.greenhouse.io/springhealth66/jobs/4650623005</guid>
-      <description>&lt;b&gt;Spring Health&lt;/b&gt;&lt;br/&gt;Location: Seattle, WA (hybrid)&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/springhealth66/jobs/4650623005'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-26T16:51:02-04:00</pubDate>
-    </item>
-    <item>
-      <title>Senior Product Designer, Member Growth — Spring Health</title>
       <link>https://job-boards.greenhouse.io/springhealth66/jobs/4633473005</link>
       <guid>https://job-boards.greenhouse.io/springhealth66/jobs/4633473005</guid>
       <description>&lt;b&gt;Spring Health&lt;/b&gt;&lt;br/&gt;Location: New York (Hybrid)&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/springhealth66/jobs/4633473005'&gt;View Job&lt;/a&gt;</description>
@@ -45,6 +38,13 @@
       <guid>https://job-boards.greenhouse.io/springhealth66/jobs/4657800005</guid>
       <description>&lt;b&gt;Spring Health&lt;/b&gt;&lt;br/&gt;Location: San Francisco, CA (Hybrid)&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/springhealth66/jobs/4657800005'&gt;View Job&lt;/a&gt;</description>
       <pubDate>2026-03-26T16:55:27-04:00</pubDate>
+    </item>
+    <item>
+      <title>Senior Product Designer, Member Growth — Spring Health</title>
+      <link>https://job-boards.greenhouse.io/springhealth66/jobs/4650623005</link>
+      <guid>https://job-boards.greenhouse.io/springhealth66/jobs/4650623005</guid>
+      <description>&lt;b&gt;Spring Health&lt;/b&gt;&lt;br/&gt;Location: Seattle, WA (hybrid)&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/springhealth66/jobs/4650623005'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-03-26T16:51:02-04:00</pubDate>
     </item>
     <item>
       <title>Senior Program Manager, Global Clinical Training and Programming (EMEA) - Cairo — Spring Health</title>
@@ -187,6 +187,20 @@
       <pubDate>2026-04-13T15:37:05-04:00</pubDate>
     </item>
     <item>
+      <title>Claims Support Advocate — Included Health</title>
+      <link>https://jobs.lever.co/includedhealth/d100e710-a005-4bb9-b006-727c687487b9</link>
+      <guid>https://jobs.lever.co/includedhealth/d100e710-a005-4bb9-b006-727c687487b9</guid>
+      <description>&lt;b&gt;Included Health&lt;/b&gt;&lt;br/&gt;Location: Remote&lt;br/&gt;&lt;a href='https://jobs.lever.co/includedhealth/d100e710-a005-4bb9-b006-727c687487b9'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-04-30T13:04:51.447000+00:00</pubDate>
+    </item>
+    <item>
+      <title>Clinical Training Specialist — Included Health</title>
+      <link>https://jobs.lever.co/includedhealth/695672ee-19b9-4dc5-b373-c086209db2ba</link>
+      <guid>https://jobs.lever.co/includedhealth/695672ee-19b9-4dc5-b373-c086209db2ba</guid>
+      <description>&lt;b&gt;Included Health&lt;/b&gt;&lt;br/&gt;Location: Remote&lt;br/&gt;&lt;a href='https://jobs.lever.co/includedhealth/695672ee-19b9-4dc5-b373-c086209db2ba'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-05-01T21:33:09.857000+00:00</pubDate>
+    </item>
+    <item>
       <title>Member Care Advocate (MCA) — Included Health</title>
       <link>https://jobs.lever.co/includedhealth/6c4f1994-afa2-46d6-82ac-7b7a152d4809</link>
       <guid>https://jobs.lever.co/includedhealth/6c4f1994-afa2-46d6-82ac-7b7a152d4809</guid>
@@ -213,13 +227,6 @@
       <guid>https://job-boards.greenhouse.io/coherehealth/jobs/7552471003</guid>
       <description>&lt;b&gt;Cohere Health&lt;/b&gt;&lt;br/&gt;Location: United States&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/coherehealth/jobs/7552471003'&gt;View Job&lt;/a&gt;</description>
       <pubDate>2026-04-28T15:12:13-04:00</pubDate>
-    </item>
-    <item>
-      <title>Patient Success Advocate - 4 day Schedule — Cadence Health</title>
-      <link>https://job-boards.greenhouse.io/cadencehealth/jobs/4663672006</link>
-      <guid>https://job-boards.greenhouse.io/cadencehealth/jobs/4663672006</guid>
-      <description>&lt;b&gt;Cadence Health&lt;/b&gt;&lt;br/&gt;Location: Remote&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/cadencehealth/jobs/4663672006'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-05-01T19:06:07-04:00</pubDate>
     </item>
     <item>
       <title>Provider Advocate Supervisor — Lantern Care</title>
@@ -285,102 +292,109 @@
       <pubDate>2026-02-27T00:05:34-05:00</pubDate>
     </item>
     <item>
+      <title>Technical Assistance Consultant, Education Systems &amp; Policy (Part-Time) — AIR</title>
+      <link>https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5165387008</link>
+      <guid>https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5165387008</guid>
+      <description>&lt;b&gt;AIR&lt;/b&gt;&lt;br/&gt;Location: US-Remote&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5165387008'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-04-15T16:30:01-04:00</pubDate>
+    </item>
+    <item>
       <title>Compliance Analyst, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587357</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587357</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587357'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-24T17:25:57-04:00</pubDate>
+      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
     </item>
     <item>
       <title>Customer Funds Reconciliation and Safeguarding Specialist, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587353</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587353</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587353'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-24T17:25:57-04:00</pubDate>
+      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
     </item>
     <item>
       <title>Data - Regulatory Reporting, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587256</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587256</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location:  Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587256'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-24T17:25:57-04:00</pubDate>
+      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
     </item>
     <item>
       <title>Enterprise Risk Management Specialist, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587347</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587347</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587347'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-29T17:00:48-04:00</pubDate>
+      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
     </item>
     <item>
       <title>Implementation Consultant — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7862528</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7862528</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: San Francisco&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7862528'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-30T12:49:54-04:00</pubDate>
+      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
     </item>
     <item>
       <title>Implementation Consultant (German speaking) — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7649097</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7649097</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Berlin, Germany &lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7649097'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-24T17:25:57-04:00</pubDate>
+      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
     </item>
     <item>
       <title>Implementation Consultant, Japan — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7744344</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7744344</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Tokyo&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7744344'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-24T17:25:32-04:00</pubDate>
+      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
     </item>
     <item>
       <title>IT Governance, Risk &amp; Compliance (GRC) Analyst, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587254</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587254</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587254'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-24T17:25:57-04:00</pubDate>
+      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
     </item>
     <item>
       <title>Sales Compensation Design Lead — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7862938</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7862938</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Dublin&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7862938'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-29T23:06:35-04:00</pubDate>
+      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
     </item>
     <item>
       <title>Sales Enablement &amp; Training Specialist — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7359215</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7359215</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: SF&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7359215'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-24T17:24:32-04:00</pubDate>
+      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
     </item>
     <item>
       <title>Senior Staff Product Designer, Agentic Commerce — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7688069</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7688069</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: SF, Seattle, New York, Remote in the US&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7688069'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-24T17:24:30-04:00</pubDate>
+      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
     </item>
     <item>
       <title>Senior Staff Product Designer, Payments — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7202630</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7202630</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: SF, Seattle, New York, Remote in the US&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7202630'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-24T17:24:30-04:00</pubDate>
+      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
     </item>
     <item>
       <title>Staff Product Designer — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7536458</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7536458</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: US &lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7536458'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-05-01T12:51:28-04:00</pubDate>
+      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
     </item>
     <item>
       <title> Treasury Manager, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587355</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587355</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587355'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-24T17:25:57-04:00</pubDate>
+      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
     </item>
     <item>
       <title>Experience Designer, Offline Design — Airbnb</title>
@@ -423,6 +437,20 @@
       <guid>https://job-boards.greenhouse.io/reddit/jobs/7772785</guid>
       <description>&lt;b&gt;Reddit&lt;/b&gt;&lt;br/&gt;Location: Remote - United States&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/reddit/jobs/7772785'&gt;View Job&lt;/a&gt;</description>
       <pubDate>2026-04-06T18:07:16-04:00</pubDate>
+    </item>
+    <item>
+      <title>Senior Product Designer, Consumer — Reddit</title>
+      <link>https://job-boards.greenhouse.io/reddit/jobs/7701558</link>
+      <guid>https://job-boards.greenhouse.io/reddit/jobs/7701558</guid>
+      <description>&lt;b&gt;Reddit&lt;/b&gt;&lt;br/&gt;Location: Remote - United States&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/reddit/jobs/7701558'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-05-04T22:18:57-04:00</pubDate>
+    </item>
+    <item>
+      <title>Senior Software Engineer, ML Training Platform — Reddit</title>
+      <link>https://job-boards.greenhouse.io/reddit/jobs/7871860</link>
+      <guid>https://job-boards.greenhouse.io/reddit/jobs/7871860</guid>
+      <description>&lt;b&gt;Reddit&lt;/b&gt;&lt;br/&gt;Location: San Francisco, CA&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/reddit/jobs/7871860'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-05-05T11:43:01-04:00</pubDate>
     </item>
   </channel>
 </rss>
