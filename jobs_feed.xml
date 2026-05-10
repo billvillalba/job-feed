@@ -3,7 +3,7 @@
   <channel>
     <title>Job Search Feed</title>
     <link>https://example.com</link>
-    <description>Matching jobs as of 2026-05-05 11:58</description>
+    <description>Matching jobs as of 2026-05-10 16:26</description>
     <item>
       <title>Psychiatrist or Prescribing Nurse Practitioner or Physician Assistant - 1099 Contractor - Sioux Falls, SD (Spanish-speaking) — Lyra Health</title>
       <link>https://jobs.lever.co/lyrahealth/c3294cbf-863d-4855-95a8-6b90edb47e7e</link>
@@ -27,13 +27,6 @@
     </item>
     <item>
       <title>Senior Product Designer, Member Growth — Spring Health</title>
-      <link>https://job-boards.greenhouse.io/springhealth66/jobs/4633473005</link>
-      <guid>https://job-boards.greenhouse.io/springhealth66/jobs/4633473005</guid>
-      <description>&lt;b&gt;Spring Health&lt;/b&gt;&lt;br/&gt;Location: New York (Hybrid)&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/springhealth66/jobs/4633473005'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-26T16:49:38-04:00</pubDate>
-    </item>
-    <item>
-      <title>Senior Product Designer, Member Growth — Spring Health</title>
       <link>https://job-boards.greenhouse.io/springhealth66/jobs/4657800005</link>
       <guid>https://job-boards.greenhouse.io/springhealth66/jobs/4657800005</guid>
       <description>&lt;b&gt;Spring Health&lt;/b&gt;&lt;br/&gt;Location: San Francisco, CA (Hybrid)&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/springhealth66/jobs/4657800005'&gt;View Job&lt;/a&gt;</description>
@@ -45,6 +38,13 @@
       <guid>https://job-boards.greenhouse.io/springhealth66/jobs/4650623005</guid>
       <description>&lt;b&gt;Spring Health&lt;/b&gt;&lt;br/&gt;Location: Seattle, WA (hybrid)&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/springhealth66/jobs/4650623005'&gt;View Job&lt;/a&gt;</description>
       <pubDate>2026-03-26T16:51:02-04:00</pubDate>
+    </item>
+    <item>
+      <title>Senior Product Designer, Member Growth — Spring Health</title>
+      <link>https://job-boards.greenhouse.io/springhealth66/jobs/4633473005</link>
+      <guid>https://job-boards.greenhouse.io/springhealth66/jobs/4633473005</guid>
+      <description>&lt;b&gt;Spring Health&lt;/b&gt;&lt;br/&gt;Location: New York (Hybrid)&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/springhealth66/jobs/4633473005'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-03-26T16:49:38-04:00</pubDate>
     </item>
     <item>
       <title>Senior Program Manager, Global Clinical Training and Programming (EMEA) - Cairo — Spring Health</title>
@@ -73,6 +73,13 @@
       <guid>https://job-boards.greenhouse.io/springhealth66/jobs/4668694005</guid>
       <description>&lt;b&gt;Spring Health&lt;/b&gt;&lt;br/&gt;Location: New York (Hybrid)&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/springhealth66/jobs/4668694005'&gt;View Job&lt;/a&gt;</description>
       <pubDate>2026-03-24T14:12:29-04:00</pubDate>
+    </item>
+    <item>
+      <title>CX Programs Sr. Associate — Headway</title>
+      <link>https://job-boards.greenhouse.io/headway/jobs/5987774004</link>
+      <guid>https://job-boards.greenhouse.io/headway/jobs/5987774004</guid>
+      <description>&lt;b&gt;Headway&lt;/b&gt;&lt;br/&gt;Location: Remote&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/headway/jobs/5987774004'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-05-06T20:07:36-04:00</pubDate>
     </item>
     <item>
       <title>Director of Product, CX Product — Headway</title>
@@ -121,14 +128,14 @@
       <link>https://job-boards.greenhouse.io/growtherapy/jobs/4583852005</link>
       <guid>https://job-boards.greenhouse.io/growtherapy/jobs/4583852005</guid>
       <description>&lt;b&gt;Grow Therapy&lt;/b&gt;&lt;br/&gt;Location: New York City, San Francisco, or Seattle preferred&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/growtherapy/jobs/4583852005'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-30T16:01:36-04:00</pubDate>
+      <pubDate>2026-05-06T11:25:15-04:00</pubDate>
     </item>
     <item>
       <title>Senior UX Researcher — Grow Therapy</title>
       <link>https://job-boards.greenhouse.io/growtherapy/jobs/4661636005</link>
       <guid>https://job-boards.greenhouse.io/growtherapy/jobs/4661636005</guid>
       <description>&lt;b&gt;Grow Therapy&lt;/b&gt;&lt;br/&gt;Location: New York, NY ; San Francisco, CA ; or Seattle, WA&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/growtherapy/jobs/4661636005'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-09T13:18:27-04:00</pubDate>
+      <pubDate>2026-05-06T11:25:15-04:00</pubDate>
     </item>
     <item>
       <title>Business Intelligence Group Manager, Ops &amp; CX — Alma Mental Health</title>
@@ -174,31 +181,24 @@
     </item>
     <item>
       <title>Senior Fullstack Engineer, Patient Experience — Midi Health</title>
-      <link>https://job-boards.greenhouse.io/midihealth/jobs/4652128005</link>
-      <guid>https://job-boards.greenhouse.io/midihealth/jobs/4652128005</guid>
-      <description>&lt;b&gt;Midi Health&lt;/b&gt;&lt;br/&gt;Location: Hybrid - Palo Alto, California&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/midihealth/jobs/4652128005'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-13T15:36:47-04:00</pubDate>
-    </item>
-    <item>
-      <title>Senior Fullstack Engineer, Patient Experience — Midi Health</title>
       <link>https://job-boards.greenhouse.io/midihealth/jobs/4666061005</link>
       <guid>https://job-boards.greenhouse.io/midihealth/jobs/4666061005</guid>
       <description>&lt;b&gt;Midi Health&lt;/b&gt;&lt;br/&gt;Location: Hybrid - San Francisco&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/midihealth/jobs/4666061005'&gt;View Job&lt;/a&gt;</description>
       <pubDate>2026-04-13T15:37:05-04:00</pubDate>
     </item>
     <item>
-      <title>Claims Support Advocate — Included Health</title>
+      <title>Senior Fullstack Engineer, Patient Experience — Midi Health</title>
+      <link>https://job-boards.greenhouse.io/midihealth/jobs/4652128005</link>
+      <guid>https://job-boards.greenhouse.io/midihealth/jobs/4652128005</guid>
+      <description>&lt;b&gt;Midi Health&lt;/b&gt;&lt;br/&gt;Location: Hybrid - Palo Alto, California&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/midihealth/jobs/4652128005'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-04-13T15:36:47-04:00</pubDate>
+    </item>
+    <item>
+      <title>Claims Support Advocate (Temp) — Included Health</title>
       <link>https://jobs.lever.co/includedhealth/d100e710-a005-4bb9-b006-727c687487b9</link>
       <guid>https://jobs.lever.co/includedhealth/d100e710-a005-4bb9-b006-727c687487b9</guid>
       <description>&lt;b&gt;Included Health&lt;/b&gt;&lt;br/&gt;Location: Remote&lt;br/&gt;&lt;a href='https://jobs.lever.co/includedhealth/d100e710-a005-4bb9-b006-727c687487b9'&gt;View Job&lt;/a&gt;</description>
       <pubDate>2026-04-30T13:04:51.447000+00:00</pubDate>
-    </item>
-    <item>
-      <title>Clinical Training Specialist — Included Health</title>
-      <link>https://jobs.lever.co/includedhealth/695672ee-19b9-4dc5-b373-c086209db2ba</link>
-      <guid>https://jobs.lever.co/includedhealth/695672ee-19b9-4dc5-b373-c086209db2ba</guid>
-      <description>&lt;b&gt;Included Health&lt;/b&gt;&lt;br/&gt;Location: Remote&lt;br/&gt;&lt;a href='https://jobs.lever.co/includedhealth/695672ee-19b9-4dc5-b373-c086209db2ba'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-05-01T21:33:09.857000+00:00</pubDate>
     </item>
     <item>
       <title>Member Care Advocate (MCA) — Included Health</title>
@@ -215,11 +215,18 @@
       <pubDate>2026-04-27T16:59:27.005000+00:00</pubDate>
     </item>
     <item>
-      <title>Referral Support Advocate — Included Health</title>
+      <title>Referral Support Advocate (Temp) — Included Health</title>
       <link>https://jobs.lever.co/includedhealth/905e45ef-dd52-403b-bee7-4cab201b4984</link>
       <guid>https://jobs.lever.co/includedhealth/905e45ef-dd52-403b-bee7-4cab201b4984</guid>
       <description>&lt;b&gt;Included Health&lt;/b&gt;&lt;br/&gt;Location: Remote&lt;br/&gt;&lt;a href='https://jobs.lever.co/includedhealth/905e45ef-dd52-403b-bee7-4cab201b4984'&gt;View Job&lt;/a&gt;</description>
       <pubDate>2026-04-28T19:28:51.072000+00:00</pubDate>
+    </item>
+    <item>
+      <title>Clinical Training &amp; Quality Specialist  — Cohere Health</title>
+      <link>https://job-boards.greenhouse.io/coherehealth/jobs/7654860003</link>
+      <guid>https://job-boards.greenhouse.io/coherehealth/jobs/7654860003</guid>
+      <description>&lt;b&gt;Cohere Health&lt;/b&gt;&lt;br/&gt;Location: United States&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/coherehealth/jobs/7654860003'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-05-05T13:45:47-04:00</pubDate>
     </item>
     <item>
       <title>Senior Implementation Manager — Cohere Health</title>
@@ -229,25 +236,11 @@
       <pubDate>2026-04-28T15:12:13-04:00</pubDate>
     </item>
     <item>
-      <title>Provider Advocate Supervisor — Lantern Care</title>
-      <link>https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5083976007</link>
-      <guid>https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5083976007</guid>
-      <description>&lt;b&gt;Lantern Care&lt;/b&gt;&lt;br/&gt;Location: Dallas, Texas, United States&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5083976007'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-19T11:17:50-04:00</pubDate>
-    </item>
-    <item>
-      <title>SMS Care Advocate — Lantern Care</title>
-      <link>https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5080727007</link>
-      <guid>https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5080727007</guid>
-      <description>&lt;b&gt;Lantern Care&lt;/b&gt;&lt;br/&gt;Location: Remote, USA&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5080727007'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-07T11:19:13-04:00</pubDate>
-    </item>
-    <item>
       <title>Implementation Engineer — Rapid SOS</title>
       <link>https://job-boards.greenhouse.io/rapidsos/jobs/5087717007</link>
       <guid>https://job-boards.greenhouse.io/rapidsos/jobs/5087717007</guid>
       <description>&lt;b&gt;Rapid SOS&lt;/b&gt;&lt;br/&gt;Location: United States (Remote)&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/rapidsos/jobs/5087717007'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-10T01:00:43-04:00</pubDate>
+      <pubDate>2026-05-07T13:46:39-04:00</pubDate>
     </item>
     <item>
       <title>Senior Implementation Engineer — Rapid SOS</title>
@@ -278,18 +271,39 @@
       <pubDate>2026-01-27T17:05:19.221000+00:00</pubDate>
     </item>
     <item>
-      <title>Design Research Lead — IDEO</title>
-      <link>https://job-boards.greenhouse.io/ideo/jobs/7601117</link>
-      <guid>https://job-boards.greenhouse.io/ideo/jobs/7601117</guid>
-      <description>&lt;b&gt;IDEO&lt;/b&gt;&lt;br/&gt;Location: Chicago, IL; San Francisco, CA&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/ideo/jobs/7601117'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-02-27T00:01:48-05:00</pubDate>
-    </item>
-    <item>
       <title>Organizational Design Lead — IDEO</title>
       <link>https://job-boards.greenhouse.io/ideo/jobs/7637138</link>
       <guid>https://job-boards.greenhouse.io/ideo/jobs/7637138</guid>
       <description>&lt;b&gt;IDEO&lt;/b&gt;&lt;br/&gt;Location: San Francisco, CA&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/ideo/jobs/7637138'&gt;View Job&lt;/a&gt;</description>
       <pubDate>2026-02-27T00:05:34-05:00</pubDate>
+    </item>
+    <item>
+      <title>Senior Experience Designer (Product &amp; Design Platform) - Advanced English — Thoughtworks</title>
+      <link>https://www.thoughtworks.com/careers/jobs/7895479?gh_jid=7895479</link>
+      <guid>https://www.thoughtworks.com/careers/jobs/7895479?gh_jid=7895479</guid>
+      <description>&lt;b&gt;Thoughtworks&lt;/b&gt;&lt;br/&gt;Location: Peru, Peru&lt;br/&gt;&lt;a href='https://www.thoughtworks.com/careers/jobs/7895479?gh_jid=7895479'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-05-05T15:06:35-04:00</pubDate>
+    </item>
+    <item>
+      <title>Senior Experience Designer (Product &amp; Design Platform) - Advanced English — Thoughtworks</title>
+      <link>https://www.thoughtworks.com/careers/jobs/7895471?gh_jid=7895471</link>
+      <guid>https://www.thoughtworks.com/careers/jobs/7895471?gh_jid=7895471</guid>
+      <description>&lt;b&gt;Thoughtworks&lt;/b&gt;&lt;br/&gt;Location: Ecuador, Ecuador&lt;br/&gt;&lt;a href='https://www.thoughtworks.com/careers/jobs/7895471?gh_jid=7895471'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-05-06T11:34:20-04:00</pubDate>
+    </item>
+    <item>
+      <title>Senior Experience Designer (Product &amp; Design Platform) - Advanced English — Thoughtworks</title>
+      <link>https://www.thoughtworks.com/careers/jobs/7895458?gh_jid=7895458</link>
+      <guid>https://www.thoughtworks.com/careers/jobs/7895458?gh_jid=7895458</guid>
+      <description>&lt;b&gt;Thoughtworks&lt;/b&gt;&lt;br/&gt;Location: Chile, Chile&lt;br/&gt;&lt;a href='https://www.thoughtworks.com/careers/jobs/7895458?gh_jid=7895458'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-05-05T15:04:54-04:00</pubDate>
+    </item>
+    <item>
+      <title>Senior Experience Designer (Product &amp; Design Platform) - Advanced English &amp; Spanish — Thoughtworks</title>
+      <link>https://www.thoughtworks.com/careers/jobs/7855955?gh_jid=7855955</link>
+      <guid>https://www.thoughtworks.com/careers/jobs/7855955?gh_jid=7855955</guid>
+      <description>&lt;b&gt;Thoughtworks&lt;/b&gt;&lt;br/&gt;Location: Brazil, Brazil&lt;br/&gt;&lt;a href='https://www.thoughtworks.com/careers/jobs/7855955?gh_jid=7855955'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-05-05T15:00:08-04:00</pubDate>
     </item>
     <item>
       <title>Technical Assistance Consultant, Education Systems &amp; Policy (Part-Time) — AIR</title>
@@ -303,63 +317,63 @@
       <link>https://stripe.com/jobs/search?gh_jid=7587357</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587357</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587357'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
+      <pubDate>2026-05-08T17:59:17-04:00</pubDate>
     </item>
     <item>
       <title>Customer Funds Reconciliation and Safeguarding Specialist, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587353</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587353</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587353'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
+      <pubDate>2026-05-08T17:59:17-04:00</pubDate>
     </item>
     <item>
       <title>Data - Regulatory Reporting, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587256</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587256</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location:  Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587256'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
+      <pubDate>2026-05-08T17:59:17-04:00</pubDate>
     </item>
     <item>
       <title>Enterprise Risk Management Specialist, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587347</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587347</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587347'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
+      <pubDate>2026-05-08T17:59:17-04:00</pubDate>
     </item>
     <item>
       <title>Implementation Consultant — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7862528</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7862528</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: San Francisco&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7862528'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
+      <pubDate>2026-05-08T17:59:17-04:00</pubDate>
     </item>
     <item>
       <title>Implementation Consultant (German speaking) — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7649097</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7649097</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Berlin, Germany &lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7649097'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
+      <pubDate>2026-05-08T17:59:17-04:00</pubDate>
     </item>
     <item>
       <title>Implementation Consultant, Japan — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7744344</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7744344</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Tokyo&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7744344'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
+      <pubDate>2026-05-08T17:59:17-04:00</pubDate>
     </item>
     <item>
       <title>IT Governance, Risk &amp; Compliance (GRC) Analyst, Luxembourg — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7587254</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587254</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587254'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
+      <pubDate>2026-05-08T17:59:17-04:00</pubDate>
     </item>
     <item>
       <title>Sales Compensation Design Lead — Stripe</title>
       <link>https://stripe.com/jobs/search?gh_jid=7862938</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7862938</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Dublin&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7862938'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
+      <pubDate>2026-05-08T17:59:17-04:00</pubDate>
     </item>
     <item>
       <title>Sales Enablement &amp; Training Specialist — Stripe</title>
@@ -394,7 +408,7 @@
       <link>https://stripe.com/jobs/search?gh_jid=7587355</link>
       <guid>https://stripe.com/jobs/search?gh_jid=7587355</guid>
       <description>&lt;b&gt;Stripe&lt;/b&gt;&lt;br/&gt;Location: Luxembourg&lt;br/&gt;&lt;a href='https://stripe.com/jobs/search?gh_jid=7587355'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-05-04T11:52:00-04:00</pubDate>
+      <pubDate>2026-05-08T17:59:17-04:00</pubDate>
     </item>
     <item>
       <title>Experience Designer, Offline Design — Airbnb</title>
@@ -411,11 +425,25 @@
       <pubDate>2026-05-01T21:46:28-04:00</pubDate>
     </item>
     <item>
+      <title>Senior Consumer Insights Lead, Marketing &amp; Strategic Intelligence  — Airbnb</title>
+      <link>https://careers.airbnb.com/positions/7864290?gh_jid=7864290</link>
+      <guid>https://careers.airbnb.com/positions/7864290?gh_jid=7864290</guid>
+      <description>&lt;b&gt;Airbnb&lt;/b&gt;&lt;br/&gt;Location: United States&lt;br/&gt;&lt;a href='https://careers.airbnb.com/positions/7864290?gh_jid=7864290'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-05-07T20:34:15-04:00</pubDate>
+    </item>
+    <item>
       <title>Senior Specialist, Luxe — Airbnb</title>
       <link>https://careers.airbnb.com/positions/7682735?gh_jid=7682735</link>
       <guid>https://careers.airbnb.com/positions/7682735?gh_jid=7682735</guid>
       <description>&lt;b&gt;Airbnb&lt;/b&gt;&lt;br/&gt;Location: Gurugram, India&lt;br/&gt;&lt;a href='https://careers.airbnb.com/positions/7682735?gh_jid=7682735'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-26T05:49:23-04:00</pubDate>
+      <pubDate>2026-05-05T14:19:38-04:00</pubDate>
+    </item>
+    <item>
+      <title>Senior Staff Machine Learning Engineer, Post Training — Airbnb</title>
+      <link>https://careers.airbnb.com/positions/7858738?gh_jid=7858738</link>
+      <guid>https://careers.airbnb.com/positions/7858738?gh_jid=7858738</guid>
+      <description>&lt;b&gt;Airbnb&lt;/b&gt;&lt;br/&gt;Location: Remote - USA&lt;br/&gt;&lt;a href='https://careers.airbnb.com/positions/7858738?gh_jid=7858738'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-05-05T16:58:33-04:00</pubDate>
     </item>
     <item>
       <title>Staff Experience Designer — Airbnb</title>
@@ -425,25 +453,32 @@
       <pubDate>2026-04-16T19:38:33-04:00</pubDate>
     </item>
     <item>
+      <title>Staff Service Designer — Airbnb</title>
+      <link>https://careers.airbnb.com/positions/7028321?gh_jid=7028321</link>
+      <guid>https://careers.airbnb.com/positions/7028321?gh_jid=7028321</guid>
+      <description>&lt;b&gt;Airbnb&lt;/b&gt;&lt;br/&gt;Location: United States&lt;br/&gt;&lt;a href='https://careers.airbnb.com/positions/7028321?gh_jid=7028321'&gt;View Job&lt;/a&gt;</description>
+      <pubDate>2026-05-05T18:56:42-04:00</pubDate>
+    </item>
+    <item>
       <title>Senior  Machine Learning Engineer, ML Training Platform  — Reddit</title>
       <link>https://job-boards.greenhouse.io/reddit/jobs/7074776</link>
       <guid>https://job-boards.greenhouse.io/reddit/jobs/7074776</guid>
       <description>&lt;b&gt;Reddit&lt;/b&gt;&lt;br/&gt;Location: Remote - United States&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/reddit/jobs/7074776'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-03-20T17:42:08-04:00</pubDate>
+      <pubDate>2026-05-06T16:36:10-04:00</pubDate>
     </item>
     <item>
       <title>Senior Product Designer, Ads Measurement — Reddit</title>
       <link>https://job-boards.greenhouse.io/reddit/jobs/7772785</link>
       <guid>https://job-boards.greenhouse.io/reddit/jobs/7772785</guid>
       <description>&lt;b&gt;Reddit&lt;/b&gt;&lt;br/&gt;Location: Remote - United States&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/reddit/jobs/7772785'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-04-06T18:07:16-04:00</pubDate>
+      <pubDate>2026-05-05T16:31:41-04:00</pubDate>
     </item>
     <item>
       <title>Senior Product Designer, Consumer — Reddit</title>
       <link>https://job-boards.greenhouse.io/reddit/jobs/7701558</link>
       <guid>https://job-boards.greenhouse.io/reddit/jobs/7701558</guid>
       <description>&lt;b&gt;Reddit&lt;/b&gt;&lt;br/&gt;Location: Remote - United States&lt;br/&gt;&lt;a href='https://job-boards.greenhouse.io/reddit/jobs/7701558'&gt;View Job&lt;/a&gt;</description>
-      <pubDate>2026-05-04T22:18:57-04:00</pubDate>
+      <pubDate>2026-05-05T16:31:40-04:00</pubDate>
     </item>
     <item>
       <title>Senior Software Engineer, ML Training Platform — Reddit</title>
